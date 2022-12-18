@@ -215,8 +215,7 @@ function combinarNombres(nombre, apellido) {
   // Ejemplo: "Soy", "Henry" -> "Soy Henry"
   // Tu código:
 
-  return nombre + " " + apellido;
-  
+  return nombre + " " + apellido;  
 }
 
 function obtenerSaludo(nombre) {
@@ -224,16 +223,14 @@ function obtenerSaludo(nombre) {
   // "Martin" -> "Hola Martin!"
   // Tu código:
 
-  return "Hola " + nombre + "!";
-   
+  return "Hola " + nombre + "!";   
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
   // Retornar el area de un rectángulo teniendo su altura y ancho
   // Tu código:
 
-  return alto * ancho;
-  
+  return alto * ancho;  
 }
 
 
@@ -241,8 +238,7 @@ function retornarPerimetro(lado){
   //Escibe una función a la cual reciba el valor del lado de un cuadrado y retorne su perímetro.
   //Escribe tu código aquí
 
-  return lado * 4;
-  
+  return lado * 4;  
 }
 
 
@@ -251,7 +247,6 @@ function areaDelTriangulo(base, altura){
   //Escribe tu código aquí
 
   return base * altura / 2;
-
 }
 
 
@@ -260,8 +255,7 @@ function deEuroAdolar(euro){
   //como parámetro un número de euros y calcule el cambio en dólares.
   //Escribe tu código aquí
 
-  return euro * 1.20;
-  
+  return euro * 1.20;  
 }
 
 
@@ -281,8 +275,7 @@ function esVocal(letra){
       }
       else {
         return "Dato incorrecto"
-      }
-        
+      }        
 }
 
 
