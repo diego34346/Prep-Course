@@ -264,8 +264,7 @@ function continueStatement(numero) {
           continue;
         }    
         suma = suma + 2;
-        array2.push(suma);
-      
+        array2.push(suma);      
     } 
   return array2
 }
